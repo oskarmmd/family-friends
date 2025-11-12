@@ -35,3 +35,4 @@ const CategoryElement = ({ category, image }) => {
 
 export default CategoryElement;
 
+
